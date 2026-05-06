@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+node_modules/
+
+# Mirror artifacts (if regenerated)
+*.tmp
+.wget-hsts
