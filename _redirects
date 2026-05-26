@@ -1,0 +1,6 @@
+# Cloudflare Pages redirects for abrisuite.com
+
+# Mastering Automation with AI — the old WP-uploaded PDF was removed.
+# 301 the phantom URL to Amazon so Google deindexes it and any incoming
+# traffic lands on the buy page.
+/wp-content/uploads/2025/02/Mastering-Automation-with-AI.pdf  https://www.amazon.com/dp/B0DVH7WTB8  301
